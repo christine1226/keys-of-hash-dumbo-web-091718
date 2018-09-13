@@ -8,5 +8,5 @@ class Hash
         end
       end
     end
-    return array
+  return array
 end
